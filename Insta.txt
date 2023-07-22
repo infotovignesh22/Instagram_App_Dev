@@ -4,3 +4,4 @@ Create Post
 Create Real
 Show News Feed
 Add Like and Comment Button
+Add the Share Button
